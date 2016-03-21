@@ -14,11 +14,11 @@ Para mais informações: https://www.kaggle.com/kaggle/us-baby-names
 * mapdata:
 
 <h3>Questões</h3>
-1. Qual é a proporção de registros totais de nascimento entre meninos e meninas a âmbito nacional?
-2. Qual dos gêneros que há a maior variedade de nomes por ano?
-3. Quais são os vinte nomes mais populares?
-<br></t>3.1 Gênero Masculino
-<br></t>3.2 Gênero Feminimo
+1. Qual dos gêneros que há a maior variedade de nomes por ano a âmbito nacional?
+2. Quais são os vinte nomes mais populares?
+<br></t>2.1 Gênero Masculino
+<br></t>2.2 Gênero Feminimo
+3. Exiba um gráfico com a contagem total dos registros feitos por ano.
 4. Existe alguma tendência nos nascimentos no decorrer dos anos?
 
 <h3>Consideração</h3>
