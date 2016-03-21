@@ -2,8 +2,6 @@
 
 
 <h3>Descrição do Problema</h3>
-US Social Security 
-como são chamados os bebés nascidos nos EUA e nos estados para acompanharem as tendências dos nomes.
 
 Para mais informações: https://www.kaggle.com/kaggle/us-baby-names
 
