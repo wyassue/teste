@@ -6,12 +6,13 @@
 Para mais informações: https://www.kaggle.com/kaggle/us-baby-names
 
 <h3>Dependências</h3>
-* RSQLite: 
-* ggplot2: 
-* ggmap:
-* dplyr:
-* maps:
-* mapdata:
+* RSQLite: Biblioteca para realizar as consultas em SQL.
+* ggplot2: Apresentar as visualizações dos dados.
+* gridExtra: Possibilita a geração de vários gráficos na mesma tela.
+* ggmap: Exibição e a manipulação de imagens e utilizando coordenadas e afins.
+* dplyr: Manipular os dataframes.
+* maps: 
+* mapdata: 
 
 <h3>Questões</h3>
 1. Qual dos gêneros que há a maior variedade de nomes por ano a âmbito nacional?
@@ -28,16 +29,22 @@ Para mais informações: https://www.kaggle.com/kaggle/us-baby-names
 
 <h3>Respostas</h3>
 <h4>Questão 1</h3>
+Qual dos gêneros que há a maior variedade de nomes por ano a âmbito nacional?
 ![alt text][asked1]
 
 <h4>Questão 2</h3>
+Quais são os vinte nomes mais populares?
+<br></t>2.1 Gênero Masculino
 ![alt text][asked2_1]
+<br></t>2.2 Gênero Feminimo
 ![alt text][asked2_2]
 
 <h4>Questão 3</h3>
+Exiba um gráfico com a contagem total dos registros feitos por ano.
 ![alt text][asked3]
 
 <h4>Questão 4</h3>
+Existe alguma tendência nos nascimentos no decorrer dos anos?
 ![alt text][asked4]
 
 [asked1]: https://github.com/wyassue/teste/blob/master/img/%20answer1.png "Questão 1"
