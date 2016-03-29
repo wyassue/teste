@@ -35,8 +35,10 @@ Qual dos gêneros que há a maior variedade de nomes por ano a âmbito nacional?
 <h4>Questão 2</h3>
 Quais são os vinte nomes mais populares?
 <br></t>2.1 Gênero Masculino
+
 ![alt text][asked2_1]
 <br></t>2.2 Gênero Feminimo
+
 ![alt text][asked2_2]
 
 <h4>Questão 3</h3>
