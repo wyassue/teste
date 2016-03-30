@@ -53,8 +53,8 @@ Existe alguma tendência nos nascimentos no decorrer dos anos?
 Existe alguma 
 ![alt text][asked5]
 
-* Durante a campanha de George Bush Pai (1989-1993),o nome George estava aumentando até em 1990 em que subitamente houve um declinio dos registros impactando para posteriormente o mandata do filho George Bush(2001-2009).  
-* Em 2007, o nome Barack tinha poucos registros catálogados. O aumento repentino no nome Barack foi ocasioado pelo anuncio de Barack Obama a presidência dos Estados Unidos. Avançando até 2009 com a vitória sobre John McCain.
+* Durante a campanha de George H.W. Bush (1989-1993),o nome George estava aumentando até em 1990 em que subitamente houve o declinio devido a Guerra do Golfo diante dos custos e muitas perdas de civis durante os ataques causando antipatia com a população. e dos registros impactando para posteriormente o mandata do filho George W. Bush (2001-2009).  
+* Em 2007, o nome Barack obteve poucos registros. O aumento repentino no nome Barack foi ocasioado pelo anuncio de Barack Obama a presidência dos Estados Unidos. Avançando até 2009 com a vitória sobre o candidato republicano John McCain.
 
 [asked1]: https://github.com/wyassue/teste/blob/master/img/%20answer1.png "Questão 1"
 [asked2_1]: https://github.com/wyassue/teste/blob/master/img/%20answer2_F_v2.png "Questão 2"
