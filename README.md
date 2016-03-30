@@ -58,5 +58,5 @@ Existe alguma
 [asked2_2]: https://github.com/wyassue/teste/blob/master/img/%20answer2_M_v2.png "Questão 2"
 [asked3]: https://github.com/wyassue/teste/blob/master/img/%20answer3.png "Questão 3"
 [asked4]: https://github.com/wyassue/teste/blob/master/img/%20answer4.png "Questão 4"
-[asked5]: https://github.com/wyassue/teste/blob/master/img/full_president.png "Questão 5"
+[asked5]: https://github.com/wyassue/teste/blob/master/img/president_full.png "Questão 5"
 
