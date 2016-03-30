@@ -49,9 +49,14 @@ Exiba um gráfico com a contagem total dos registros feitos por ano.
 Existe alguma tendência nos nascimentos no decorrer dos anos?
 ![alt text][asked4]
 
+<h4>Questão 5</h3>
+Existe alguma 
+![alt text][asked5]
+
 [asked1]: https://github.com/wyassue/teste/blob/master/img/%20answer1.png "Questão 1"
 [asked2_1]: https://github.com/wyassue/teste/blob/master/img/%20answer2_F_v2.png "Questão 2"
 [asked2_2]: https://github.com/wyassue/teste/blob/master/img/%20answer2_M_v2.png "Questão 2"
 [asked3]: https://github.com/wyassue/teste/blob/master/img/%20answer3.png "Questão 3"
 [asked4]: https://github.com/wyassue/teste/blob/master/img/%20answer4.png "Questão 4"
+[asked5]: https://github.com/wyassue/teste/blob/master/img/full_president.png "Questão 5"
 
