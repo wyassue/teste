@@ -2,7 +2,6 @@
 
 
 <h3>Descrição do Problema</h3>
-
 Para mais informações: https://www.kaggle.com/kaggle/us-baby-names
 
 <h3>Dependências</h3>
@@ -14,18 +13,49 @@ Para mais informações: https://www.kaggle.com/kaggle/us-baby-names
 * maps: 
 * mapdata: 
 
-<h3>Questões</h3>
-1. Qual dos gêneros que há a maior variedade de nomes por ano a âmbito nacional?
-2. Quais são os vinte nomes mais populares?
-<br></t>2.1 Gênero Masculino
-<br></t>2.2 Gênero Feminimo
-3. Exiba um gráfico com a contagem total dos registros feitos por ano.
-4. Existe alguma tendência nos nascimentos no decorrer dos anos?
-
 <h3>Consideração</h3>
-1. Será exibido apenas as deduções e resultados. Todos os códigos estarão na pasta <i>/code</i>. 
+1. Será exibida apenas as deduções e resultados. Todos os códigos estarão na pasta <i>/code</i>. 
 2. Na pasta <i>/img</i> apresentamos todas as imagens presentes em resolução maior. 
-3. 
+
+<h3>Data set</h3>
+**NationalNames**
+
+Id | Name | Year | Gender | Count
+------ | ------ | ------ | ------ | ------:
+1 | Mary | 1880 | F | 7065
+2 | Anna | 1880 | F | 2604
+3 | Emma | 1880 | F | 2003
+`obs: 1.825.433 registros`
+
+**StateNames**
+
+Id | Name | Year | Gender | State | Count
+------ | ------ | ------ | ------ | ------ | ------:
+1 | Mary | 1910 | F | AK | 14
+2 | Annie | 1910 | F | AK | 12
+3 | Anna | 1910 | F | AK | 10
+`obs: 5.647.426 registros`
+
+<h4>Tabela auxiliares</h4>
+**State**
+- No arquivo `util.R` no método `location_state`.
+
+State | Lat | Lon | Name
+------ | ------ | ------ | ------ | ------ | ------:
+AK | 64.20084 | -149.49367 | Alaska, USA
+AL | 32.31823 | -86.90230 | Alabama, USA
+AR | 35.20105 | -91.83183 | Arkansas, USA
+`obs: 51 registros`
+
+**Generation**
+- No arquivo `util.R` no método `generations_american`.
+
+Name | YearIni | YearEnd
+------ | ------ | ------ | ------:
+Lost Generation | 1883 | 1900
+G.I. Generation | 1901 | 1924
+Silent Generation | 1925 | 1942
+`obs: 7 registros`
 
 <h3>Respostas</h3>
 <h4>Questão 1</h3>
