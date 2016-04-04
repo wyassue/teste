@@ -3,7 +3,7 @@
 <h3>Descrição do Problema</h3>
 Para mais informações: https://www.kaggle.com/kaggle/us-baby-names
 
-<h3>Objetivo</h3>
+<h3>Desafio</h3>
 Todas as soluções foram implementadas na linguagem R utilizando os recursos disponíveis para coletar, manipular, análisar e visualizar as informações. 
 
 
@@ -12,7 +12,7 @@ Para a execução dos algoritmos implementados é necessário instalar as seguin
 * RSQLite: Biblioteca para realizar as consultas em SQL.
 * ggplot2: Apresentar as visualizações dos dados.
 * gridExtra: Possibilita a geração de vários gráficos na mesma tela.
-* dplyr: Manipular os dataframes.
+* dplyr: Manipulação dos dataframes.
 * maps: Fornece uma base de dados de alta resolução para exibição de mapas.
 * ggmap: Exibição e a manipulação de imagens e utilizando coordenadas e afins.
 * scales: Apresenta métodos para alterar a parte gráfica como eixos, rótulos e entre outros. 
@@ -94,10 +94,45 @@ Existe alguma
 * Recém eleito em 2001, no mandato de George W. Bush (2001-2009) houve o atentado de 11 de setembro iniciando a ofensiva contra o terrorismo
 * Em 2007, o nome Barack obteve poucos registros. O aumento repentino no nome Barack foi ocasioado pelo anuncio de Barack Obama a presidência dos Estados Unidos. Avançando até 2009 com a vitória sobre o candidato republicano John McCain.
 
+<h4>Questão 6</h3>
+**Feminino**
+
+![alt text][trendF1]
+![alt text][trendF2]
+![alt text][trendF3]
+
+**Masculino**
+
+![alt text][trendM1]
+![alt text][trendM2]
+![alt text][trendM3]
+
+<h4>Questão 7</h3>
+![alt text][unisex1]
+![alt text][unisex2]
+![alt text][unisex3]
+
 [asked1]: https://github.com/wyassue/teste/blob/master/img/%20answer1.png "Questão 1"
 [asked2_1]: https://github.com/wyassue/teste/blob/master/img/%20answer2_F_v2.png "Questão 2"
 [asked2_2]: https://github.com/wyassue/teste/blob/master/img/%20answer2_M_v2.png "Questão 2"
 [asked3]: https://github.com/wyassue/teste/blob/master/img/%20answer3.png "Questão 3"
 [asked4]: https://github.com/wyassue/teste/blob/master/img/%20answer4.png "Questão 4"
 [asked5]: https://github.com/wyassue/teste/blob/master/img/president_full.png "Questão 5"
+
+[president1]: https://github.com/wyassue/teste/blob/master/img/Theodore_1901_1909.png "Questão 5.1"
+[president2]: https://github.com/wyassue/teste/blob/master/img/Herbert_1929_1933.png "Questão 5.2"
+[president3]: https://github.com/wyassue/teste/blob/master/img/Franklin_1933_1945.png "Questão 5.3"
+
+[trendF1]: https://github.com/wyassue/teste/blob/master/img/Daleyza_F.png "Questão 6.1.1"
+[trendF2]: https://github.com/wyassue/teste/blob/master/img/Everleigh_F.png "Questão 6.1.2"
+[trendF3]: https://github.com/wyassue/teste/blob/master/img/Tennille_F.png "Questão 6.1.3"
+
+[trendM1]: https://github.com/wyassue/teste/blob/master/img/Kanye_M.png "Questão 6.2.1"
+[trendM2]: https://github.com/wyassue/teste/blob/master/img/Neymar_M.png "Questão 6.2.2"
+[trendM3]: https://github.com/wyassue/teste/blob/master/img/Shaquille_M.png "Questão 6.2.3"
+
+[unisex1]: https://github.com/wyassue/teste/blob/master/img/Delane.png "Questão 7.1"
+[unisex2]: https://github.com/wyassue/teste/blob/master/img/Ivory.png "Questão 7.2"
+[unisex3]: https://github.com/wyassue/teste/blob/master/img/Michal.png "Questão 7.3"
+
 
