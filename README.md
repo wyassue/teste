@@ -1,21 +1,28 @@
 <h1> US Baby Name </h1>
 
-
 <h3>Descrição do Problema</h3>
 Para mais informações: https://www.kaggle.com/kaggle/us-baby-names
 
+<h3>Objetivo</h3>
+Todas as soluções foram implementadas na linguagem R utilizando os recursos disponíveis para coletar, manipular, análisar e visualizar as informações. 
+
+
 <h3>Dependências</h3>
+Para a execução dos algoritmos implementados é necessário instalar as seguintes bibliotecas.
 * RSQLite: Biblioteca para realizar as consultas em SQL.
 * ggplot2: Apresentar as visualizações dos dados.
 * gridExtra: Possibilita a geração de vários gráficos na mesma tela.
-* ggmap: Exibição e a manipulação de imagens e utilizando coordenadas e afins.
 * dplyr: Manipular os dataframes.
-* maps: 
-* mapdata: 
+* maps: Fornece uma base de dados de alta resolução para exibição de mapas.
+* ggmap: Exibição e a manipulação de imagens e utilizando coordenadas e afins.
+* scales: Apresenta métodos para alterar a parte gráfica como eixos, rótulos e entre outros. 
 
-<h3>Consideração</h3>
+Obs: Para instalar todas as pendências execute `init_packages()` no arquivo `util.R`
+
+<h3>Considerações</h3>
 1. Será exibida apenas as deduções e resultados. Todos os códigos estarão na pasta <i>/code</i>. 
-2. Na pasta <i>/img</i> apresentamos todas as imagens presentes em resolução maior. 
+2. Na pasta <i>/img</i> apresentamos todas as imagens.
+3. Para algumas questões serão mostradas apenas os principais resultados. Todos os resultados estarão no formato <i>.csv</i> na pasta <i>/csv</i>.
 
 <h3>Data set</h3>
 **NationalNames**
