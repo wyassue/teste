@@ -70,13 +70,19 @@ Qual dos gêneros que há a maior variedade de nomes por ano a âmbito nacional?
 ![alt text][asked1]
 
 <h4>Questão 2</h3>
-Quais são os vinte nomes mais populares?
+Quais são os dez nomes mais populares de todos os tempos?
 <br></t>2.1 Gênero Masculino
 
 ![alt text][asked2_1]
 <br></t>2.2 Gênero Feminimo
 
 ![alt text][asked2_2]
+
+* A aparente decaída dos nomes nas últimas décadas 
+* Grande parte dos nomes tiveram seu ápice entre 1955 à 1970 com picos de até 100.000 registros. Notável que 
+* No gênero masculino, cinco dos dez nomes estão entre os vinte nomes mais populares de 2014 que são William (5º), Michael(7º), James(9º), David(18º) e Joseph(20º).
+* No entanto no gênero Feminino, apenas Elizabeth(9º)
+
 
 <h4>Questão 3</h3>
 Exiba um gráfico com a contagem total dos registros feitos por ano.
