@@ -47,7 +47,7 @@ Id | Name | Year | Gender | State | Count
 3 | Anna | 1910 | F | AK | 10
 `obs: 5.647.426 registros`
 
-<h4>Tabela auxiliares</h4>
+<h4>Tabelas auxiliares</h4>
 **State**
 
 A tabela `State` contém as informações de cada Estado.
