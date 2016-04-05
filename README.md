@@ -24,8 +24,10 @@ Obs: Para instalar todas as pendências execute `init_packages()` no arquivo `ut
 2. Na pasta <i>/img</i> apresentamos todas as imagens.
 3. Para algumas questões serão mostradas apenas os principais resultados. Todos os resultados estarão no formato <i>.csv</i> na pasta <i>/csv</i>.
 
-<h3>Data set</h3>
+<h3>Tabelas</h3>
 **NationalNames**
+
+A tabela `NationalNames` contém as informações a nível Nacional.
 
 Id | Name | Year | Gender | Count
 ------ | ------ | ------ | ------ | ------:
@@ -36,6 +38,8 @@ Id | Name | Year | Gender | Count
 
 **StateNames**
 
+A tabela `StateNames` contém as informações a nível Estadual.
+
 Id | Name | Year | Gender | State | Count
 ------ | ------ | ------ | ------ | ------ | ------:
 1 | Mary | 1910 | F | AK | 14
@@ -45,7 +49,10 @@ Id | Name | Year | Gender | State | Count
 
 <h4>Tabela auxiliares</h4>
 **State**
-- No arquivo `util.R` no método `location_state`.
+
+A tabela `State` contém as informações de cada Estado.
+- A inserção dos registros está no arquivo `util.R` no método `location_state`.
+- As colunas `Lat`(Latitude) e `Lon`(Longitude) serão utilizados na plotagem em mapas.
 
 State | Lat | Lon | Name
 ------ | ------ | ------ | ------ | ------ | ------:
@@ -55,7 +62,9 @@ AR | 35.20105 | -91.83183 | Arkansas, USA
 `obs: 51 registros`
 
 **Generation**
-- No arquivo `util.R` no método `generations_american`.
+
+A tabela `Generation` contém as informações de cada geração.
+- A inserção dos registros está no arquivo `util.R` no método `generations_american`.
 
 Name | YearIni | YearEnd
 ------ | ------ | ------ | ------:
