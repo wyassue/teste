@@ -78,14 +78,13 @@ Quais são os dez nomes mais populares de todos os tempos?
 
 ![alt text][asked2_2]
 
-* A aparente decaída dos nomes nas últimas décadas 
+* A decaída de todos dos nomes populares nas últimas décadas é devido o aumento da variedade dos nomes inspirados na cultura POP e influências sociais. 
 * Grande parte dos nomes tiveram seu ápice entre 1955 à 1970 com picos de até 100.000 registros. Notável que 
-* No gênero masculino, cinco dos dez nomes estão entre os vinte nomes mais populares de 2014 que são William (5º), Michael(7º), James(9º), David(18º) e Joseph(20º).
-* No entanto no gênero Feminino, apenas Elizabeth(9º)
+* No gênero masculino, cinco dos dez nomes estão entre os vinte nomes mais populares de 2014 que são William (5º),  Michael(7º), James(9º), David(18º) e Joseph (20º). No entanto no gênero Feminino, apenas Elizabeth (9º). está entre os nomes mais populares de 2014. Notável que 
 
 
 <h4>Questão 3</h3>
-Exiba um gráfico com a contagem total dos registros feitos por ano.
+Exiba um gráfico com a quantidade total de registros por gênero a cada ano.
 ![alt text][asked3]
 
 <h4>Questão 4</h3>
@@ -112,6 +111,7 @@ Existe alguma
 ![alt text][trendM1]
 ![alt text][trendM2]
 ![alt text][trendM3]
+![alt text][trendM4]
 
 <h4>Questão 7</h3>
 ![alt text][unisex1]
@@ -133,9 +133,10 @@ Existe alguma
 [trendF2]: https://github.com/wyassue/teste/blob/master/img/Everleigh_F.png "Questão 6.1.2"
 [trendF3]: https://github.com/wyassue/teste/blob/master/img/Tennille_F.png "Questão 6.1.3"
 
-[trendM1]: https://github.com/wyassue/teste/blob/master/img/Kanye_M.png "Questão 6.2.1"
-[trendM2]: https://github.com/wyassue/teste/blob/master/img/Neymar_M.png "Questão 6.2.2"
-[trendM3]: https://github.com/wyassue/teste/blob/master/img/Shaquille_M.png "Questão 6.2.3"
+[trendM1]: https://github.com/wyassue/teste/blob/master/img/Beckham_M.png "Questão 6.2.1"
+[trendM2]: https://github.com/wyassue/teste/blob/master/img/Kanye_M.png "Questão 6.2.2"
+[trendM3]: https://github.com/wyassue/teste/blob/master/img/Neymar_M.png "Questão 6.2.3"
+[trendM4]: https://github.com/wyassue/teste/blob/master/img/Shaquille_M.png "Questão 6.2.4"
 
 [unisex1]: https://github.com/wyassue/teste/blob/master/img/Delane.png "Questão 7.1"
 [unisex2]: https://github.com/wyassue/teste/blob/master/img/Ivory.png "Questão 7.2"
