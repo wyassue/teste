@@ -27,7 +27,8 @@ Obs: Para instalar todas as pendências execute `init_packages()` no arquivo `ut
 <h3>Tabelas</h3>
 **NationalNames**
 
-A tabela `NationalNames` contém as informações a nível Nacional.
+A tabela contém os dados de nomes dos bebês a nível Nacional dos EUA.
+
 
 Id | Name | Year | Gender | Count
 ------ | ------ | ------ | ------ | ------:
@@ -38,7 +39,7 @@ Id | Name | Year | Gender | Count
 
 **StateNames**
 
-A tabela `StateNames` contém as informações a nível Estadual.
+A tabela contém os dados de nomes dos bebês a nível Estadual dos EUA.
 
 Id | Name | Year | Gender | State | Count
 ------ | ------ | ------ | ------ | ------ | ------:
@@ -118,9 +119,18 @@ Existe alguma
 **Masculino**
 
 ![alt text][trendM1]
+
+* O astro inglês David Beckham ganhou visibilidade mundial ao transferir para o Real Madrid/ESP em 2010. Após atuar durante quatro anos, assinou o contrato com o LA Galaxy/USA aumentando a sua popularidade entre os americanos.
+
 ![alt text][trendM2]
 ![alt text][trendM3]
+
+* Estrela da seleção brasileira, Neymar ganhou notoriedade
+
 ![alt text][trendM4]
+
+* Inspirado no ex-jogador Shaquille O'Neal um dos maiores jogadores da história da NBA. 
+
 
 <h4>Questão 7</h3>
 ![alt text][unisex1]
@@ -143,16 +153,9 @@ Existe alguma
 [trendF3]: https://github.com/wyassue/teste/blob/master/img/Tennille_F.png "Questão 6.1.3"
 
 [trendM1]: https://github.com/wyassue/teste/blob/master/img/Beckham_M.png "Questão 6.2.1"
-
-* O astro inglês David Beckham ganhou visibilidade mundial ao transferir para o Real Madrid/ESP em 2010. Após atuar durante quatro anos, assinou o contrato com o LA Galaxy/USA aumentando a sua popularidade entre os americanos.
- 
 [trendM2]: https://github.com/wyassue/teste/blob/master/img/Kanye_M.png "Questão 6.2.2"
 [trendM3]: https://github.com/wyassue/teste/blob/master/img/Neymar_M.png "Questão 6.2.3"
-
-* Estrela da seleção brasileira, Neymar ganhou notoriedade
-
 [trendM4]: https://github.com/wyassue/teste/blob/master/img/Shaquille_M.png "Questão 6.2.4"
-* Inspirado no ex-jogador Shaquille O'Neal um dos maiores jogadores da história da NBA. 
 
 [unisex1]: https://github.com/wyassue/teste/blob/master/img/Delane.png "Questão 7.1"
 [unisex2]: https://github.com/wyassue/teste/blob/master/img/Ivory.png "Questão 7.2"
