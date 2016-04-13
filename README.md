@@ -145,6 +145,11 @@ Posição | Nome | F | M | | Posição | Nome | F | M
 4º|Kerry|49417|48452||9º|Christan|1403|1366
 5º|Delane|922|942||10º|Terryl|740|717
 
+<h4>Questão 8</h3>
+![alt text][asked8]
+
+<h4>Questão 9</h3>
+![alt text][asked9]
 
 [asked1]: https://github.com/wyassue/teste/blob/master/img/%20answer1.png "Questão 1"
 [asked2_1]: https://github.com/wyassue/teste/blob/master/img/%20answer2_F_v2.png "Questão 2"
@@ -170,4 +175,5 @@ Posição | Nome | F | M | | Posição | Nome | F | M
 [unisex2]: https://github.com/wyassue/teste/blob/master/img/Ivory.png "Questão 7.2"
 [unisex3]: https://github.com/wyassue/teste/blob/master/img/Michal.png "Questão 7.3"
 
-
+[asked8]: https://github.com/wyassue/teste/blob/master/img/questao9.png "Questão 8"
+[asked9]: https://github.com/wyassue/teste/blob/master/img/questao8.png "Questão 9"
