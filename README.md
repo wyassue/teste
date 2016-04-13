@@ -137,6 +137,15 @@ Existe alguma
 ![alt text][unisex2]
 ![alt text][unisex3]
 
+Posição | Nome | F | M | | Posição | Nome | F | M 
+------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------:
+1º|Krishna|1715|1713||6º|Shaya|745|727
+2º|Michal|3620|3563||7º|Kris|13792|13437
+3º|Lian|671|684||8º|Ivory|8186|8405
+4º|Kerry|49417|48452||9º|Christan|1403|1366
+5º|Delane|922|942||10º|Terryl|740|717
+
+
 [asked1]: https://github.com/wyassue/teste/blob/master/img/%20answer1.png "Questão 1"
 [asked2_1]: https://github.com/wyassue/teste/blob/master/img/%20answer2_F_v2.png "Questão 2"
 [asked2_2]: https://github.com/wyassue/teste/blob/master/img/%20answer2_M_v2.png "Questão 2"
