@@ -25,6 +25,8 @@ Obs: Para instalar todas as pendências execute `init_packages()` no arquivo `ut
 3. Para algumas questões serão mostradas apenas os principais resultados. Todos os resultados estarão no formato <i>.csv</i> na pasta <i>/csv</i>.
 
 <h3>Tabelas</h3>
+Os datasets '<i>NationalNames</i>' e '<i>StateNames</i>' estão disponíveis nos formatos <i>.csv</i> e <i>.sqlite</i>. 
+
 **NationalNames**
 
 A tabela contém os dados de nomes dos bebês a nível Nacional dos EUA.
@@ -49,6 +51,9 @@ Id | Name | Year | Gender | State | Count
 `obs: 5.647.426 registros`
 
 <h4>Tabelas auxiliares</h4>
+
+As tabelas auxiliares '<i>State</i>' e '<i>Generation</i>' estão disponíveis no arquivo `answer.R` no método `create_tables`.
+
 **State**
 
 A tabela `State` contém as informações de cada Estado.
@@ -78,6 +83,8 @@ Silent Generation | 1925 | 1942
 <h4>Questão 1</h3>
 Qual dos gêneros que há a maior variedade de nomes por ano a âmbito nacional?
 ![alt text][asked1]
+
+* Após 1910, os EUA começaram a receber refugiados de diversas partes do mundo que estavam fugindo de regimes ou de guerras para encontrar melhores condições e oportunidades na vida.
 
 <h4>Questão 2</h3>
 Quais são os dez nomes mais populares de todos os tempos?
@@ -146,10 +153,16 @@ Posição | Nome | F | M | | Posição | Nome | F | M
 5º|Delane|922|942||10º|Terryl|740|717
 
 <h4>Questão 8</h3>
+A atual situação composição por gênero e distribuição populacional de cada estado.
+
 ![alt text][asked8]
 
 <h4>Questão 9</h3>
+
 ![alt text][asked9]
+
+* Antes da colonização inglesa, os espanhóis já exploravam a região no que tornaria o território americano e se fixando nos estados de Flórida, Califórnia, Arizona, Utah, Novo México e Texas.
+
 
 [asked1]: https://github.com/wyassue/teste/blob/master/img/%20answer1.png "Questão 1"
 [asked2_1]: https://github.com/wyassue/teste/blob/master/img/%20answer2_F_v2.png "Questão 2"
