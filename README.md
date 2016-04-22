@@ -109,7 +109,8 @@ Existe alguma tendência nos nascimentos no decorrer dos anos?
 ![alt text][asked4]
 
 <h4>Questão 5</h3>
-Existe alguma 
+Qual o impacto do nomes dos presidentes em nomes de bebês?
+
 ![alt text][asked5]
 
 * Durante a campanha de George H.W. Bush (1989-1993), o nome George estava se popularizando até em 1990 quando subitamente houve o declinio devido a Guerra do Golfo causando antipatia com a população diante dos custos de guerra ataque à civis. 
@@ -125,21 +126,28 @@ Existe alguma
 
 **Masculino**
 
-![alt text][trendM1]
+
+<h4>Questão 7</h3>
+
+**Feminino**
+
+**Masculino**
+
+![alt text][famousM1]
 
 * O astro inglês David Beckham ganhou visibilidade mundial ao transferir para o Real Madrid/ESP em 2010. Após atuar durante quatro anos, assinou o contrato com o LA Galaxy/USA aumentando a sua popularidade entre os americanos.
 
-![alt text][trendM2]
-![alt text][trendM3]
+![alt text][famousM2]
+![alt text][famousM3]
 
 * Estrela da seleção brasileira, Neymar ganhou notoriedade
 
-![alt text][trendM4]
+![alt text][famousM4]
 
 * Inspirado no ex-jogador Shaquille O'Neal um dos maiores jogadores da história da NBA. 
 
 
-<h4>Questão 7</h3>
+<h4>Questão 8</h3>
 ![alt text][unisex1]
 ![alt text][unisex2]
 ![alt text][unisex3]
@@ -152,12 +160,12 @@ Posição | Nome | F | M | | Posição | Nome | F | M
 4º|Kerry|49417|48452||9º|Christan|1403|1366
 5º|Delane|922|942||10º|Terryl|740|717
 
-<h4>Questão 8</h3>
+<h4>Questão 9</h3>
 A atual situação composição por gênero e distribuição populacional de cada estado.
 
 ![alt text][asked8]
 
-<h4>Questão 9</h3>
+<h4>Questão 10</h3>
 
 ![alt text][asked9]
 
@@ -175,18 +183,18 @@ A atual situação composição por gênero e distribuição populacional de cad
 [president2]: https://github.com/wyassue/teste/blob/master/img/Herbert_1929_1933.png "Questão 5.2"
 [president3]: https://github.com/wyassue/teste/blob/master/img/Franklin_1933_1945.png "Questão 5.3"
 
-[trendF1]: https://github.com/wyassue/teste/blob/master/img/Daleyza_F.png "Questão 6.1.1"
-[trendF2]: https://github.com/wyassue/teste/blob/master/img/Everleigh_F.png "Questão 6.1.2"
-[trendF3]: https://github.com/wyassue/teste/blob/master/img/Tennille_F.png "Questão 6.1.3"
+[trendF1]: https://github.com/wyassue/teste/blob/master/img/person/F/Daleyza_F.png "Questão 6.1.1"
+[trendF2]: https://github.com/wyassue/teste/blob/master/img/person/F/Everleigh_F.png "Questão 6.1.2"
+[trendF3]: https://github.com/wyassue/teste/blob/master/img/person/F/Tennille_F.png "Questão 6.1.3"
 
-[trendM1]: https://github.com/wyassue/teste/blob/master/img/Beckham_M.png "Questão 6.2.1"
-[trendM2]: https://github.com/wyassue/teste/blob/master/img/Kanye_M.png "Questão 6.2.2"
-[trendM3]: https://github.com/wyassue/teste/blob/master/img/Neymar_M.png "Questão 6.2.3"
-[trendM4]: https://github.com/wyassue/teste/blob/master/img/Shaquille_M.png "Questão 6.2.4"
+[famousM1]: https://github.com/wyassue/teste/blob/master/img/famous/M/Beckham_M.png "Questão 6.2.1"
+[famousM2]: https://github.com/wyassue/teste/blob/master/img/famous/M/Kanye_M.png "Questão 6.2.2"
+[famousM3]: https://github.com/wyassue/teste/blob/master/img/famous/M/Neymar_M.png "Questão 6.2.3"
+[famousM4]: https://github.com/wyassue/teste/blob/master/img/famous/M/Shaquille_M.png "Questão 6.2.4"
 
-[unisex1]: https://github.com/wyassue/teste/blob/master/img/Delane.png "Questão 7.1"
-[unisex2]: https://github.com/wyassue/teste/blob/master/img/Ivory.png "Questão 7.2"
-[unisex3]: https://github.com/wyassue/teste/blob/master/img/Michal.png "Questão 7.3"
+[unisex1]: https://github.com/wyassue/teste/blob/master/img/unisex/Delane.png "Questão 7.1"
+[unisex2]: https://github.com/wyassue/teste/blob/master/img/unisex/Ivory.png "Questão 7.2"
+[unisex3]: https://github.com/wyassue/teste/blob/master/img/unisex/Michal.png "Questão 7.3"
 
 [asked8]: https://github.com/wyassue/teste/blob/master/img/questao9.png "Questão 8"
 [asked9]: https://github.com/wyassue/teste/blob/master/img/questao8.png "Questão 9"
