@@ -126,10 +126,11 @@ Qual o impacto do nomes dos presidentes em nomes de bebês?
 ![alt text][trendF1]
 ![alt text][trendF2]
 ![alt text][trendF3]
-![alt text][trendF4]
 
 **Masculino**
-
+![alt text][trendM1]
+![alt text][trendM2]
+![alt text][trendM3]
 
 <h4>Questão 7</h3>
 
@@ -207,7 +208,10 @@ A atual composição por gênero e distribuição populacional de cada estado.
 [trendF1]: https://github.com/wyassue/teste/blob/master/img/person/F/Ashanti_F.png "Questão 6.1.1"
 [trendF2]: https://github.com/wyassue/teste/blob/master/img/person/F/Deneen_F.png "Questão 6.1.2"
 [trendF3]: https://github.com/wyassue/teste/blob/master/img/person/F/Iesha_F.png "Questão 6.1.3"
-[trendF4]: https://github.com/wyassue/teste/blob/master/img/person/F/Khadijah_F.png "Questão 6.1.4"
+
+[trendM1]: https://github.com/wyassue/teste/blob/master/img/person/M/Arsenio_M.png "Questão 6.1.1"
+[trendM2]: https://github.com/wyassue/teste/blob/master/img/person/M/Devante_M.png "Questão 6.1.2"
+[trendM3]: https://github.com/wyassue/teste/blob/master/img/person/M/Jase_M.png "Questão 6.1.3"
 
 [famousM1]: https://github.com/wyassue/teste/blob/master/img/famous/M/Beckham_M.png "Questão 6.2.1"
 [famousM2]: https://github.com/wyassue/teste/blob/master/img/famous/M/Kanye_M.png "Questão 6.2.2"
