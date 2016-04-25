@@ -118,11 +118,15 @@ Qual o impacto do nomes dos presidentes em nomes de bebês?
 * Em 2007, o nome Barack obteve poucos registros. O aumento repentino no nome Barack foi ocasioado pelo anuncio de Barack Obama a presidência dos Estados Unidos. Avançando até 2009 com a vitória sobre o candidato republicano John McCain.
 
 <h4>Questão 6</h3>
+
+
+
 **Feminino**
 
 ![alt text][trendF1]
 ![alt text][trendF2]
 ![alt text][trendF3]
+![alt text][trendF4]
 
 **Masculino**
 
@@ -160,14 +164,30 @@ Posição | Nome | F | M | | Posição | Nome | F | M
 4º|Kerry|49417|48452||9º|Christan|1403|1366
 5º|Delane|922|942||10º|Terryl|740|717
 
-<h4>Questão 9</h3>
-A atual situação composição por gênero e distribuição populacional de cada estado.
+<h3>Questão 9</h3>
 
-![alt text][asked8]
+Quais são os principais nomes inspirados em flores?
 
-<h4>Questão 10</h3>
+`* Está sendo considerado apenas os nomes femininos`
 
 ![alt text][asked9]
+
+Posição | Nome | Total | | Posição | Nome | Total
+------ |------ |------ |------ |------ |------ |------:
+1º|Heather|523717||6º|Daisy|134828
+2º|Rose|475178||7º|Lily|123182
+3º|Alyssa|296309||8º|Violet|122727
+4º|Jasmine|236389||9º|Marguerite|93157
+5º|Myrtle|136435||10º|Iris|74409
+
+<h3>Questão 10</h3>
+A atual composição por gênero e distribuição populacional de cada estado.
+
+![alt text][asked10]
+
+<h4>Questão 11</h3>
+
+![alt text][asked11]
 
 * Antes da colonização inglesa, os espanhóis já exploravam a região no que tornaria o território americano e se fixando nos estados de Flórida, Califórnia, Arizona, Utah, Novo México e Texas.
 
@@ -178,14 +198,16 @@ A atual situação composição por gênero e distribuição populacional de cad
 [asked3]: https://github.com/wyassue/teste/blob/master/img/%20answer3.png "Questão 3"
 [asked4]: https://github.com/wyassue/teste/blob/master/img/%20answer4.png "Questão 4"
 [asked5]: https://github.com/wyassue/teste/blob/master/img/president_full.png "Questão 5"
+[asked9]: https://github.com/wyassue/teste/blob/master/img/answer9.png "Questão 9"
 
 [president1]: https://github.com/wyassue/teste/blob/master/img/Theodore_1901_1909.png "Questão 5.1"
 [president2]: https://github.com/wyassue/teste/blob/master/img/Herbert_1929_1933.png "Questão 5.2"
 [president3]: https://github.com/wyassue/teste/blob/master/img/Franklin_1933_1945.png "Questão 5.3"
 
-[trendF1]: https://github.com/wyassue/teste/blob/master/img/person/F/Daleyza_F.png "Questão 6.1.1"
-[trendF2]: https://github.com/wyassue/teste/blob/master/img/person/F/Everleigh_F.png "Questão 6.1.2"
-[trendF3]: https://github.com/wyassue/teste/blob/master/img/person/F/Tennille_F.png "Questão 6.1.3"
+[trendF1]: https://github.com/wyassue/teste/blob/master/img/person/F/Ashanti_F.png "Questão 6.1.1"
+[trendF2]: https://github.com/wyassue/teste/blob/master/img/person/F/Deneen_F.png "Questão 6.1.2"
+[trendF3]: https://github.com/wyassue/teste/blob/master/img/person/F/Iesha_F.png "Questão 6.1.3"
+[trendF4]: https://github.com/wyassue/teste/blob/master/img/person/F/Khadijah_F.png "Questão 6.1.4"
 
 [famousM1]: https://github.com/wyassue/teste/blob/master/img/famous/M/Beckham_M.png "Questão 6.2.1"
 [famousM2]: https://github.com/wyassue/teste/blob/master/img/famous/M/Kanye_M.png "Questão 6.2.2"
@@ -196,5 +218,5 @@ A atual situação composição por gênero e distribuição populacional de cad
 [unisex2]: https://github.com/wyassue/teste/blob/master/img/unisex/Ivory.png "Questão 7.2"
 [unisex3]: https://github.com/wyassue/teste/blob/master/img/unisex/Michal.png "Questão 7.3"
 
-[asked8]: https://github.com/wyassue/teste/blob/master/img/questao9.png "Questão 8"
-[asked9]: https://github.com/wyassue/teste/blob/master/img/questao8.png "Questão 9"
+[asked10]: https://github.com/wyassue/teste/blob/master/img/questao9.png "Questão 8"
+[asked11]: https://github.com/wyassue/teste/blob/master/img/questao8.png "Questão 9"
