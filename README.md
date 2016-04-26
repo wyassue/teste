@@ -21,7 +21,7 @@ Obs: Para instalar todas as pendências execute `init_packages()` no arquivo `ut
 
 <h3>Considerações</h3>
 1. Será exibida apenas as deduções e resultados. Todos os códigos estarão na pasta <i>/code</i>. 
-2. Na pasta <i>/img</i> apresentamos todas as imagens.
+2. Na pasta <i>/img</i> apresentamos algumas compilações de imagens.
 3. Para algumas questões serão mostradas apenas os principais resultados. Todos os resultados estarão no formato <i>.csv</i> na pasta <i>/csv</i>.
 
 <h3>Tabelas</h3>
@@ -81,17 +81,21 @@ Silent Generation | 1925 | 1942
 
 <h3>Respostas</h3>
 <h4>Questão 1</h3>
-Qual dos gêneros que há a maior variedade de nomes por ano a âmbito nacional?
+Qual dos gêneros que há a maior variedade de nomes por ano e gênero em âmbito nacional?
 ![alt text][asked1]
 
 * Após 1910, os EUA começaram a receber refugiados de diversas partes do mundo que estavam fugindo de regimes ou de guerras para encontrar melhores condições e oportunidades na vida.
 
 <h4>Questão 2</h3>
 Quais são os dez nomes mais populares de todos os tempos?
+
 <br></t>2.1 Gênero Masculino
 
 ![alt text][asked2_1]
+
+
 <br></t>2.2 Gênero Feminimo
+
 
 ![alt text][asked2_2]
 
@@ -126,6 +130,9 @@ Qual o impacto do nomes dos presidentes em nomes de bebês?
 ![alt text][trendF1]
 ![alt text][trendF2]
 ![alt text][trendF3]
+
+Outros exemplos: [Katina](https://github.com/wyassue/teste/blob/master/img/person/F/Katina_F.png), [Khadijah](https://github.com/wyassue/teste/blob/master/img/person/F/Khadijah_F.png), [Marquita](https://github.com/wyassue/teste/blob/master/img/person/F/Marquita_F.png)...
+
 
 **Masculino**
 
