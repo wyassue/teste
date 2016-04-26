@@ -50,7 +50,7 @@ Id | Name | Year | Gender | State | Count
 3 | Anna | 1910 | F | AK | 10
 `obs: 5.647.426 registros`
 
-<h4>Tabelas auxiliares</h4>
+<h3>Tabelas auxiliares</h3>
 
 As tabelas auxiliares '<i>State</i>' e '<i>Generation</i>' estão disponíveis no arquivo `answer.R` no método `create_tables`.
 
@@ -80,22 +80,20 @@ Silent Generation | 1925 | 1942
 `obs: 7 registros`
 
 <h3>Respostas</h3>
-<h4>Questão 1</h3>
+<h3>Questão 1</h3>
 Qual dos gêneros que há a maior variedade de nomes por ano e gênero em âmbito nacional?
 ![alt text][asked1]
 
 * Após 1910, os EUA começaram a receber refugiados de diversas partes do mundo que estavam fugindo de regimes ou de guerras para encontrar melhores condições e oportunidades na vida.
 
-<h4>Questão 2</h3>
+<h3>Questão 2</h3>
 Quais são os dez nomes mais populares de todos os tempos?
 
-<br></t>2.1 Gênero Masculino
+<br></t>2.1 Gênero Feminimo
 
 ![alt text][asked2_1]
 
-
-<br></t>2.2 Gênero Feminimo
-
+<br></t>2.2 Gênero Masculino
 
 ![alt text][asked2_2]
 
@@ -104,15 +102,15 @@ Quais são os dez nomes mais populares de todos os tempos?
 * No gênero masculino, cinco dos dez nomes estão entre os vinte nomes mais populares de 2014 que são William (5º),  Michael(7º), James(9º), David(18º) e Joseph (20º). No entanto no gênero Feminino, apenas Elizabeth (9º). está entre os nomes mais populares de 2014. Notável que 
 
 
-<h4>Questão 3</h3>
+<h3>Questão 3</h3>
 Exiba um gráfico com a quantidade total de registros por gênero a cada ano.
 ![alt text][asked3]
 
-<h4>Questão 4</h3>
+<h3>Questão 4</h3>
 Existe alguma tendência nos nascimentos no decorrer dos anos?
 ![alt text][asked4]
 
-<h4>Questão 5</h3>
+<h3>Questão 5</h3>
 Qual o impacto do nomes dos presidentes em nomes de bebês?
 
 ![alt text][asked5]
@@ -121,7 +119,7 @@ Qual o impacto do nomes dos presidentes em nomes de bebês?
 * Recém eleito em 2001, no mandato de George W. Bush (2001-2009) houve o atentado de 11 de setembro iniciando a ofensiva contra o terrorismo
 * Em 2007, o nome Barack obteve poucos registros. O aumento repentino no nome Barack foi ocasioado pelo anuncio de Barack Obama a presidência dos Estados Unidos. Avançando até 2009 com a vitória sobre o candidato republicano John McCain.
 
-<h4>Questão 6</h3>
+<h3>Questão 6</h3>
 
 
 
@@ -140,7 +138,7 @@ Outros exemplos: [Katina](https://github.com/wyassue/teste/blob/master/img/perso
 ![alt text][trendM2]
 ![alt text][trendM3]
 
-<h4>Questão 7</h3>
+<h3>Questão 7</h3>
 
 **Feminino**
 
@@ -162,7 +160,7 @@ Outros exemplos: [Katina](https://github.com/wyassue/teste/blob/master/img/perso
 * Inspirado no ex-jogador Shaquille O'Neal um dos maiores jogadores da história da NBA. 
 
 
-<h4>Questão 8</h3>
+<h3>Questão 8</h3>
 ![alt text][unisex1]
 ![alt text][unisex2]
 ![alt text][unisex3]
@@ -196,7 +194,7 @@ A atual composição por gênero e distribuição populacional de cada estado.
 
 ![alt text][asked10]
 
-<h4>Questão 11</h3>
+<h3>Questão 11</h3>
 
 ![alt text][asked11]
 
