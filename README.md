@@ -84,7 +84,11 @@ Silent Generation | 1925 | 1942
 Qual dos gêneros que há a maior variedade de nomes por ano e gênero em âmbito nacional?
 ![alt text][asked1]
 
-* Após 1910, os EUA começaram a receber refugiados de diversas partes do mundo que estavam fugindo de regimes ou de guerras para encontrar melhores condições e oportunidades na vida.
+* Por volta de 1915 há pequena explosão populacional, provávelmente ocasionada pela migração.
+* Na década de 1970 houve um aumento significativo para ambos os gêneros até em meados de 2010. 
+* Aparentemente, os casais são mais propensos a serem 'criativos' com os nomes femininos do que nomes masculinos. 
+
+`Nota: Certos fatos serão explorados na Questão 4.`
 
 <h3>Questão 2</h3>
 Quais são os dez nomes mais populares de todos os tempos?
@@ -97,7 +101,7 @@ Quais são os dez nomes mais populares de todos os tempos?
 
 ![alt text][asked2_2]
 
-* A decaída de todos dos nomes populares nas últimas décadas é devido o aumento da variedade dos nomes inspirados na cultura POP e influências sociais. 
+* A decaída de todos dos nomes populares nas últimas décadas é devido o aumento da variedade dos nomes inspirados na cultura POP e influências sociais. Impacto
 * Grande parte dos nomes tiveram seu ápice entre 1955 à 1970 com picos de até 100.000 registros. Notável que 
 * No gênero masculino, cinco dos dez nomes estão entre os vinte nomes mais populares de 2014 que são William (5º),  Michael(7º), James(9º), David(18º) e Joseph (20º). No entanto no gênero Feminino, apenas Elizabeth (9º). está entre os nomes mais populares de 2014. Notável que 
 
@@ -105,6 +109,10 @@ Quais são os dez nomes mais populares de todos os tempos?
 <h3>Questão 3</h3>
 Exiba um gráfico com a quantidade total de registros por gênero a cada ano.
 ![alt text][asked3]
+
+
+* Na década de 1910, os EUA começaram a receber refugiados de diversas partes do mundo que estavam fugindo de regimes ou de guerras para encontrar melhores condições e oportunidades na vida ocorrendo uma explosão população.
+* 
 
 <h3>Questão 4</h3>
 Existe alguma tendência nos nascimentos no decorrer dos anos?
@@ -177,7 +185,7 @@ Posição | Nome | F | M | | Posição | Nome | F | M
 
 Quais são os principais nomes inspirados em flores?
 
-`* Está sendo considerado apenas os nomes femininos`
+`Nota: Está sendo considerado apenas os nomes femininos`
 
 ![alt text][asked9]
 
