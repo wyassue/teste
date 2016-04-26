@@ -88,7 +88,7 @@ Qual dos gêneros que há a maior variedade de nomes por ano e gênero em âmbit
 * Na década de 1970 houve um aumento significativo para ambos os gêneros até em meados de 2010. 
 * Aparentemente, os casais são mais propensos a serem 'criativos' com os nomes femininos do que nomes masculinos. 
 
-`Nota: Certos fatos serão explorados na Questão 4.`
+`Nota: Certos fatos serão explorados na Questão 3.`
 
 <h3>Questão 2</h3>
 Quais são os dez nomes mais populares de todos os tempos?
