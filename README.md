@@ -113,7 +113,7 @@ Exiba um gráfico com a quantidade total de registros por gênero a cada ano.
 
 * Na década de 1910, os EUA começaram a receber refugiados de diversas partes do mundo que estavam fugindo de regimes ou de guerras a procura de melhores condições e oportunidades na vida, ocorrendo assim uma explosão população.
 * Durante 1945-47 houve um aumento substancial nos nascimentos em um curto periodo de tempo que coincide com o fim da segunda guerra mundial (2 de setembro de 1945) e a volta dos soldados americanos. Em 1946, ocorreu o aumento mais significado durante o périodo de avaliação com aproximadamente 271.000 mil registros para ambos os gêneros.
-
+* Em duas ocasições ocorreram os maiores déficits nos registros de bebês que foram em 1965-66 e 1971-73
 
 <h3>Questão 4</h3>
 Existe alguma tendência nos nascimentos no decorrer dos anos?
@@ -205,9 +205,12 @@ A atual composição por gênero e distribuição populacional de cada estado.
 
 <h3>Questão 11</h3>
 
+A densidade demográfica das regiões dos EUA durante 1910 a 2010.
+
 ![alt text][asked11]
 
 * Antes da colonização inglesa, os espanhóis já exploravam a região no que tornaria o território americano e se fixando nos estados de Flórida, Califórnia, Arizona, Utah, Novo México e Texas.
+* Notavel a descentralização da população da costa leste e a migração para as regiões da costa oeste.
 
 
 [asked1]: https://github.com/wyassue/teste/blob/master/img/%20answer1.png "Questão 1"
