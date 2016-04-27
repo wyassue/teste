@@ -117,6 +117,9 @@ Exiba um gráfico com a quantidade total de registros por gênero a cada ano.
 
 <h3>Questão 4</h3>
 Existe alguma tendência nos nascimentos no decorrer dos anos?
+
+`Teoria Geracional Strauss-Howe`
+
 ![alt text][asked4]
 
 <h3>Questão 5</h3>
@@ -150,6 +153,8 @@ Outros exemplos: [Katina](https://github.com/wyassue/teste/blob/master/img/perso
 Outros exemplos: [Harding](https://github.com/wyassue/teste/blob/master/img/person/M/Harding_M.png), [Levar](https://github.com/wyassue/teste/blob/master/img/person/M/Levar_M.png), [Talan](https://github.com/wyassue/teste/blob/master/img/person/M/Talan_M.png)...
 
 <h3>Questão 7</h3>
+
+Impacto do nome das pessoas famosas sobre os nomes dos bebês
 
 **Feminino**
 
