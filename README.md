@@ -147,27 +147,22 @@ Outros exemplos: [Katina](https://github.com/wyassue/teste/blob/master/img/perso
 ![alt text][trendM2]
 ![alt text][trendM3]
 
+Outros exemplos: [Harding](https://github.com/wyassue/teste/blob/master/img/person/M/Harding_M.png), [Levar](https://github.com/wyassue/teste/blob/master/img/person/M/Levar_M.png), [Talan](https://github.com/wyassue/teste/blob/master/img/person/M/Talan_M.png)...
+
 <h3>Questão 7</h3>
 
 **Feminino**
 
 ![alt text][famousF1]
+![alt text][famousF2]
+![alt text][famousF3]
 
 **Masculino**
 
 ![alt text][famousM1]
-
-* O astro inglês David Beckham ganhou visibilidade mundial ao transferir para o Real Madrid/ESP em 2010. Após atuar durante quatro anos, assinou o contrato com o LA Galaxy/USA aumentando a sua popularidade entre os americanos.
-
 ![alt text][famousM2]
 ![alt text][famousM3]
-
-* Estrela da seleção brasileira, Neymar ganhou notoriedade
-
 ![alt text][famousM4]
-
-* Inspirado no ex-jogador Shaquille O'Neal um dos maiores jogadores da história da NBA. 
-
 
 <h3>Questão 8</h3>
 ![alt text][unisex1]
@@ -233,7 +228,9 @@ A densidade demográfica das regiões dos EUA durante 1910 a 2010.
 [trendM2]: https://github.com/wyassue/teste/blob/master/img/person/M/Devante_M.png "Questão 6.1.2"
 [trendM3]: https://github.com/wyassue/teste/blob/master/img/person/M/Jase_M.png "Questão 6.1.3"
 
-[famousF1]: https://github.com/wyassue/teste/blob/master/img/famous/F/Rihanna_F.png "Questão 6.2.1"
+[famousF1]: https://github.com/wyassue/teste/blob/master/img/famous/F/Bella_F.png "Questão 6.2.1"
+[famousF2]: https://github.com/wyassue/teste/blob/master/img/famous/F/Britney_F.png "Questão 6.2.1"
+[famousF3]: https://github.com/wyassue/teste/blob/master/img/famous/F/Rihanna_F.png "Questão 6.2.1"
 
 [famousM1]: https://github.com/wyassue/teste/blob/master/img/famous/M/Beckham_M.png "Questão 6.2.1"
 [famousM2]: https://github.com/wyassue/teste/blob/master/img/famous/M/Kanye_M.png "Questão 6.2.2"
