@@ -111,8 +111,9 @@ Exiba um gráfico com a quantidade total de registros por gênero a cada ano.
 ![alt text][asked3]
 
 
-* Na década de 1910, os EUA começaram a receber refugiados de diversas partes do mundo que estavam fugindo de regimes ou de guerras para encontrar melhores condições e oportunidades na vida ocorrendo uma explosão população.
-* 
+* Na década de 1910, os EUA começaram a receber refugiados de diversas partes do mundo que estavam fugindo de regimes ou de guerras a procura de melhores condições e oportunidades na vida, ocorrendo assim uma explosão população.
+* Durante 1945-47 houve um aumento substancial nos nascimentos em um curto periodo de tempo que coincide com o fim da segunda guerra mundial (2 de setembro de 1945) e a volta dos soldados americanos. Em 1946, ocorreu o aumento mais significado durante o périodo de avaliação com aproximadamente 271.000 mil registros para ambos os gêneros.
+
 
 <h3>Questão 4</h3>
 Existe alguma tendência nos nascimentos no decorrer dos anos?
