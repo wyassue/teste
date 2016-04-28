@@ -93,18 +93,13 @@ Qual dos gêneros que há a maior variedade de nomes por ano e gênero em âmbit
 <h3>Questão 2</h3>
 Quais são os dez nomes mais populares de todos os tempos?
 
-<br></t>2.1 Gênero Feminimo
-
 ![alt text][asked2_1]
-
-<br></t>2.2 Gênero Masculino
 
 ![alt text][asked2_2]
 
-* A decaída de todos dos nomes populares nas últimas décadas é devido o aumento da variedade dos nomes inspirados na cultura POP e influências sociais. Impacto
-* Grande parte dos nomes tiveram seu ápice entre 1955 à 1970 com picos de até 100.000 registros. Notável que 
-* No gênero masculino, cinco dos dez nomes estão entre os vinte nomes mais populares de 2014 que são William (5º),  Michael(7º), James(9º), David(18º) e Joseph (20º). No entanto no gênero Feminino, apenas Elizabeth (9º). está entre os nomes mais populares de 2014. Notável que 
-
+* A decaída de todos dos nomes populares nas últimas décadas é devido o aumento da variedade dos nomes inspirados na cultura POP e influências sociais.
+* Grande parte dos nomes tiveram seu ápice entre 1955 à 1970 com picos de até 100.000 registros.
+* No gênero masculino, cinco dos dez nomes estão entre os vinte nomes mais populares de 2014 que são William (5º),  Michael(7º), James(9º), David(18º) e Joseph (20º). No entanto no gênero Feminino, apenas Elizabeth (9º) está entre os nomes mais populares de 2014.
 
 <h3>Questão 3</h3>
 Exiba um gráfico com a quantidade total de registros por gênero a cada ano.
@@ -113,7 +108,7 @@ Exiba um gráfico com a quantidade total de registros por gênero a cada ano.
 
 * Na década de 1910, os EUA começaram a receber refugiados de diversas partes do mundo que estavam fugindo de regimes ou de guerras a procura de melhores condições e oportunidades na vida, ocorrendo assim uma explosão população.
 * Durante 1945-47 houve um aumento substancial nos nascimentos em um curto periodo de tempo que coincide com o fim da segunda guerra mundial (2 de setembro de 1945) e a volta dos soldados americanos. Em 1946, ocorreu o aumento mais significado durante o périodo de avaliação com aproximadamente 271.000 mil registros para ambos os gêneros.
-* Em duas ocasições ocorreram os maiores déficits nos registros de bebês que foram em 1965-66 e 1971-73
+* Em duas ocasições ocorreram os maiores déficits nos registros de bebês que foram em 1965-66 e 1971-73.
 
 <h3>Questão 4</h3>
 Existe alguma tendência nos nascimentos no decorrer dos anos?
@@ -125,15 +120,54 @@ Existe alguma tendência nos nascimentos no decorrer dos anos?
 <h3>Questão 5</h3>
 Qual o impacto do nomes dos presidentes em nomes de bebês?
 
-![alt text][asked5]
+<h3>Influência neutra</h3>
 
-* Durante a campanha de George H.W. Bush (1989-1993), o nome George estava se popularizando até em 1990 quando subitamente houve o declinio devido a Guerra do Golfo causando antipatia com a população diante dos custos de guerra ataque à civis. 
-* Recém eleito em 2001, no mandato de George W. Bush (2001-2009) houve o atentado de 11 de setembro iniciando a ofensiva contra o terrorismo
-* Em 2007, o nome Barack obteve poucos registros. O aumento repentino no nome Barack foi ocasioado pelo anuncio de Barack Obama a presidência dos Estados Unidos. Avançando até 2009 com a vitória sobre o candidato republicano John McCain.
+![alt text][asked5_1]
+
+Os presidentes Chester Arthur, Benjamin Harrison, William McKinley e John Kennedy não apresentaram muitas váriações durante os seus respectivos mandatos. No caso de John Kennedy, o nome John era popular na época e nos casos dos outros presidentes, os seus nomes não tiveram influência nas escolhas dos nomes dos bebês na época de seus mandatos e apenas se popularizou posteriormente.
+
+Outros exemplos: 
+[Chester Arthur](https://github.com/wyassue/teste/blob/master/img/president/1881%201885-Chester%20Alan%20Arthur.png),
+[Benjamin Harrison](https://github.com/wyassue/teste/blob/master/img/president/1889%201893-Benjamin%20Harrison.png) e
+[William McKinley](https://github.com/wyassue/teste/blob/master/img/president/1897%201901-William%20McKinley.png).
+
+<h3>Impacto positivo</h3>
+
+![alt text][asked5_2.1]
+
+![alt text][asked5_2.2]
+
+Esses presidentes obtiveram uma grande influência nas escolhas dos nomes durante o periodo de candidatura até o mandato, em razão que em todos os casos apresentaram o 'pico máximo' no período. Há casos que os nomes continuaram a serem registros (Calvin) e em outros caíram em deuso.
+Exemplo: Em 2007, o nome Barack obteve poucos registros. O aumento repentino no nome Barack foi ocasioado pelo anuncio de Barack Obama a presidência dos Estados Unidos. Avançando até 2009 com a vitória sobre o candidato republicano John McCain.
+
+Outros exemplos: 
+[Grover Cleveland](https://github.com/wyassue/teste/blob/master/img/president/1885%201889-Grover%20Cleveland.png),
+[Woodrow Wilson](https://github.com/wyassue/teste/blob/master/img/president/1913%201921-Woodrow%20Wilson.png),
+[Warren Harding](https://github.com/wyassue/teste/blob/master/img/president/1921%201923-Warren%20Gamaliel%20Harding.png),
+[Calvin Coolidge](https://github.com/wyassue/teste/blob/master/img/president/1923%201929-Calvin%20Coolidge.png),
+[Herbert Hoover](https://github.com/wyassue/teste/blob/master/img/president/1929%201933-Herbert%20Clark%20Hoover.png),
+[Dwight Eisenhower](https://github.com/wyassue/teste/blob/master/img/president/1953%201961-Dwight%20David%20Eisenhower.png) e 
+[Lyndon Johnson](https://github.com/wyassue/teste/blob/master/img/president/1963%201969-Lyndon%20Baines%20Johnson.png).
+
+
+
+<h3>Impacto negativo</h3>
+
+![alt text][asked5_3.1]
+
+![alt text][asked5_3.2]
+
+Outros exemplos: 
+[Harry Truman](https://github.com/wyassue/teste/blob/master/img/president/1945%201953-Harry%20S.%20Truman.png),
+[Richard Nixon](https://github.com/wyassue/teste/blob/master/img/president/1969%201974-Richard%20Milhous%20Nixon.png),
+[Gerald Ford](https://github.com/wyassue/teste/blob/master/img/president/1974%201977-Gerald%20Rudolph%20Ford.png) e 
+[James Carter Jr.](https://github.com/wyassue/teste/blob/master/img/president/1977%201981-James%20Earl%20Carter%20Jr..png).
+
+Exemplo: Durante a campanha de George H.W. Bush (1989-1993), o nome George estava se popularizando até em 1990 quando subitamente houve o declinio devido a Guerra do Golfo causando antipatia com a população diante dos custos de guerra ataque à civis. 
 
 <h3>Questão 6</h3>
 
-
+Nomes que apresentaram 
 
 **Feminino**
 
@@ -221,7 +255,11 @@ A densidade demográfica das regiões dos EUA durante 1910 a 2010.
 [asked2_2]: https://github.com/wyassue/teste/blob/master/img/%20answer2_M_v2.png "Questão 2"
 [asked3]: https://github.com/wyassue/teste/blob/master/img/%20answer3.png "Questão 3"
 [asked4]: https://github.com/wyassue/teste/blob/master/img/%20answer4.png "Questão 4"
-[asked5]: https://github.com/wyassue/teste/blob/master/img/president_full.png "Questão 5"
+[asked5_1]: https://github.com/wyassue/teste/blob/master/img/president/1961%201963-John%20Fitzgerald%20Kennedy.png "Questão 5.1"
+[asked5_2.1]: https://github.com/wyassue/teste/blob/master/img/president/1933%201945-Franklin%20Delano%20Roosevelt.png "Questão 5.2.1"
+[asked5_2.2]: https://github.com/wyassue/teste/blob/master/img/president/2009%202014-Barack%20Hussein%20Obama.png "Questão 5.2.2"
+[asked5_3.1]: https://github.com/wyassue/teste/blob/master/img/president/1969%201974-Richard%20Milhous%20Nixon.png "Questão 5.3.1"
+[asked5_3.2]: https://github.com/wyassue/teste/blob/master/img/president/1989%201993-George%20Herbert%20Walker%20Bush.png "Questão 5.3.2"
 [asked9]: https://github.com/wyassue/teste/blob/master/img/answer9.png "Questão 9"
 
 [president1]: https://github.com/wyassue/teste/blob/master/img/Theodore_1901_1909.png "Questão 5.1"
