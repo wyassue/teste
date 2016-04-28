@@ -138,6 +138,7 @@ Outros exemplos:
 ![alt text][asked5_2.2]
 
 Esses presidentes obtiveram uma grande influência nas escolhas dos nomes durante o periodo de candidatura até o mandato, em razão que em todos os casos apresentaram o 'pico máximo' no período. Há casos que os nomes continuaram a serem registros (Calvin) e em outros caíram em deuso.
+
 Exemplo: Em 2007, o nome Barack obteve poucos registros. O aumento repentino no nome Barack foi ocasioado pelo anuncio de Barack Obama a presidência dos Estados Unidos. Avançando até 2009 com a vitória sobre o candidato republicano John McCain.
 
 Outros exemplos: 
@@ -150,12 +151,15 @@ Outros exemplos:
 [Lyndon Johnson](https://github.com/wyassue/teste/blob/master/img/president/1963%201969-Lyndon%20Baines%20Johnson.png).
 
 
-
 <h3>Impacto negativo</h3>
 
 ![alt text][asked5_3.1]
 
 ![alt text][asked5_3.2]
+
+Esses presidentes apresentaram impacto negativo durante a candidatura até o mandato devido algumas particularidades. Muitos destes presidentes participaram de momentos de decisivos, de guerras ou por escândalos (Richard Nixon - Watergate).
+
+Exemplo: Durante a campanha de George H.W. Bush (1989-1993), o nome George estava se popularizando até em 1990 quando subitamente houve o declinio devido a Guerra do Golfo causando antipatia com a população diante dos custos de guerra ataque à civis. 
 
 Outros exemplos: 
 [Harry Truman](https://github.com/wyassue/teste/blob/master/img/president/1945%201953-Harry%20S.%20Truman.png),
@@ -163,11 +167,11 @@ Outros exemplos:
 [Gerald Ford](https://github.com/wyassue/teste/blob/master/img/president/1974%201977-Gerald%20Rudolph%20Ford.png) e 
 [James Carter Jr.](https://github.com/wyassue/teste/blob/master/img/president/1977%201981-James%20Earl%20Carter%20Jr..png).
 
-Exemplo: Durante a campanha de George H.W. Bush (1989-1993), o nome George estava se popularizando até em 1990 quando subitamente houve o declinio devido a Guerra do Golfo causando antipatia com a população diante dos custos de guerra ataque à civis. 
+
 
 <h3>Questão 6</h3>
 
-Nomes que apresentaram 
+Quais são os nomes 'fogo de palha'?
 
 **Feminino**
 
